@@ -1,0 +1,33 @@
+.lost-pet-form label {
+    display: block;
+}
+
+.lost-pet-form input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-text-field {
+    margin: .2rem 0;
+}
+
+@media screen and (min-width: 768px) {
+    .lost-pet-form input {
+        width: auto;
+    }
+
+    .form-text-field {
+        display: flex;
+    }
+
+    .form-text-field input {
+        flex-grow: 1;
+        margin-left: .5rem;
+    }
+
+    .lost-pet-form {
+        display: block;
+        max-width: 500px;
+        margin: auto;
+    }
+}

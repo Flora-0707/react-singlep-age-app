@@ -1,0 +1,18 @@
+.homepage {
+    display: block;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+
+.homepage-wel {
+    color: lightskyblue;
+    border: 1px solid lightskyblue;
+    padding: 1rem;
+}
+
+.homepage img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}

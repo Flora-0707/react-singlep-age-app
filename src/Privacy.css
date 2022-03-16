@@ -1,0 +1,29 @@
+.privacy {
+    font-size: 0.8rem;
+}
+
+.privacy ul {
+    margin-left: 1rem;
+}
+
+.privacy li {
+    list-style-type: disc;
+}
+
+.accordion-item-title {
+    background-color: lightskyblue;
+    border: 1px dotted white;
+    padding-left: 0.2rem;
+}
+
+.accordion-item-title a {
+    display: block;
+}
+
+.accordion-item-content {
+    padding: .5rem;
+}
+
+.accordion-content-hidden {
+    display: none;
+}

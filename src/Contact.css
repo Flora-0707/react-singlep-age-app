@@ -1,0 +1,11 @@
+.contact {
+    display: block;
+    text-align: center;
+}
+
+.contact-method {
+    border: 1px dotted lightskyblue;
+    border-width: 0.2rem;
+    margin-top: 1rem;
+    padding: 1rem 0;
+}
