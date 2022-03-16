@@ -1,5 +1,5 @@
-# Final Project
-Created a single page react app aims for helping people findtheir lost pet back. Including 5 different views.
+# React Project
+Created a single page react app aims for helping people find their lost pet back. Including 5 different views.
 
 
 ## Complex UI elements:
