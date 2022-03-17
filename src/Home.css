@@ -3,12 +3,21 @@
     text-align: center;
     margin-top: 2rem;
     font-size: 2rem;
+    color: lightskyblue;
 }
 
 .homepage-wel {
-    color: lightskyblue;
-    border: 1px solid lightskyblue;
+    border-bottom: 1px solid lightskyblue;
     padding: 1rem;
+}
+
+.homepage-message {
+    max-width: 1000px;
+    margin: auto;
+    height: auto;
+    text-align: center;
+    font-size: large;
+    font-weight: lighter;
 }
 
 .homepage img {
