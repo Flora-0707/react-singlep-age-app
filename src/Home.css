@@ -12,6 +12,7 @@
 }
 
 .homepage-message {
+    color: gray;
     max-width: 1000px;
     margin: auto;
     height: auto;

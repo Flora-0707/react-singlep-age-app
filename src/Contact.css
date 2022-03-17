@@ -3,9 +3,15 @@
     text-align: center;
 }
 
+.contact-us {
+    border-bottom: 3px dotted lightskyblue;
+    padding-bottom: 0.5rem;
+}
+
 .contact-method {
-    border: 1px dotted lightskyblue;
     border-width: 0.2rem;
     margin-top: 1rem;
     padding: 1rem 0;
+    max-width: 360px;
+    margin: auto;
 }
